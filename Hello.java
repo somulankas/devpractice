@@ -8,5 +8,6 @@ a{
 }
 
 
-Hello world of Master--
+Master server IP address :10.10.10.4
+
 
