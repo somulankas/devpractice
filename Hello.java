@@ -8,5 +8,4 @@ class Hello
 
 }
 
-
-dfdfdifdifdifdifdifdifdifdifdifdi
+Child IP address-10.10.2.1
