@@ -4,10 +4,15 @@ a{
 	{
 		System.out.println("Hello World");
 	}
-	
+ Mera bharath Mahan hain
+
 }
 
+<<<<<<< HEAD
 
 Master server IP address :10.10.10.4
 
 
+=======
+Child IP address-10.10.2.1
+>>>>>>> child
