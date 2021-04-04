@@ -1,2 +1,2 @@
 
-master@Hellow master data
+Child@ Child is not a master
